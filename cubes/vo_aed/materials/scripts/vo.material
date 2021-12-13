@@ -1,0 +1,13 @@
+material vo/Image
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        cubic_texture  ../textures/cube.jpg separateUV
+      }
+    }
+  }
+}

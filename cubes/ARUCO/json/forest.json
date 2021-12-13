@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "forest",
+    "length": "500cm",
+    "width": "500cm",
+    "height": "200cm",
+    "structure": "medium",
+    "name": "Forests",
+    "3dmodelurl": "https://brigkair.digital/ddc/forest"
+  }
+}

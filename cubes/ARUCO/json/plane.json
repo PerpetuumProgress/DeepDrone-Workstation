@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "plane",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "300cm",
+    "structure": "tough",
+    "name": "Plane",
+    "3dmodelurl": "https://brigkair.digital/ddc/plane"
+  }
+}

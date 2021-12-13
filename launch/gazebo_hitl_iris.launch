@@ -1,0 +1,14 @@
+<launch>
+	<arg name="world_path" default="/root/gazebo/worlds/manching_airport_depth.world" />
+    <arg name="gui" default="true"/>
+
+    <param name="use_sim_time" value="true" />
+    <node pkg="tf" type="static_transform_publisher" name="tf_depth_camera"
+          args="0 0 0 -1.57 0 -1.57 fcu camera_link 10"/>
+    <!-- Launch Gazebo -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="gui" value="$(arg gui)"/>
+        <arg name="world_name" value="$(arg world_path)" />
+    </include>
+
+</launch>

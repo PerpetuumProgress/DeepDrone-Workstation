@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "firetruck",
+    "length": "180cm",
+    "width": "50cm",
+    "height": "60cm",
+    "structure": "tough",
+    "name": "Firetruck",
+    "3dmodelurl": "https://brigkair.digital/ddc/firetruck"
+  }
+}

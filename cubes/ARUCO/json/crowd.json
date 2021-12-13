@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "crowd",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "40cm",
+    "structure": "medium",
+    "name": "Crowd",
+    "3dmodelurl": "https://brigkair.digital/ddc/crowd"
+  }
+}

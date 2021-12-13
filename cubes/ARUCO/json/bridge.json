@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "bridge",
+    "length": "4000cm",
+    "width": "300cm",
+    "height": "400cm",
+    "structure": "tough",
+    "name": "Bridge",
+    "3dmodelurl": "https://brigkair.digital/ddc/bridge"
+  }
+}

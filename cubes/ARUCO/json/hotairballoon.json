@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "hotairballoon",
+    "length": "300cm",
+    "width": "300cm",
+    "height": "400cm",
+    "structure": "medium",
+    "name": "Hot Air Balloon",
+    "3dmodelurl": "https://brigkair.digital/ddc/hotairballoon"
+  }
+}

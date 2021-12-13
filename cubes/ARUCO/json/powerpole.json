@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "powerpole",
+    "length": "100cm",
+    "width": "50cm",
+    "height": "200cm",
+    "structure": "tough",
+    "name": "Powerpole",
+    "3dmodelurl": "https://brigkair.digital/ddc/powerpole"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "fire",
+    "length": "200cm",
+    "width": "200cm",
+    "height": "400cm",
+    "structure": "soft",
+    "name": "Fire",
+    "3dmodelurl": "https://brigkair.digital/ddc/fire"
+  }
+}

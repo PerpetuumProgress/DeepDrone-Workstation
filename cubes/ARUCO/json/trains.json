@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "trains",
+    "length": "500cm",
+    "width": "500cm",
+    "height": "200cm",
+    "structure": "tough",
+    "name": "Trains",
+    "3dmodelurl": "https://brigkair.digital/ddc/trains"
+  }
+}

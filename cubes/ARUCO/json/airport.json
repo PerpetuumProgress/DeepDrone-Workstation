@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "airport",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "400cm",
+    "structure": "tough",
+    "name": "Airport",
+    "3dmodelurl": "https://brigkair.digital/ddc/airport"
+  }
+}

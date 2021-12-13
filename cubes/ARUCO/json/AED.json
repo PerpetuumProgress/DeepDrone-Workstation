@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "AED",
+    "length": "10cm",
+    "width": "10cm",
+    "height": "10cm",
+    "structure": "tough",
+    "name": "AED",
+    "3dmodelurl": "https://brigkair.digital/ddc/AED"
+  }
+}

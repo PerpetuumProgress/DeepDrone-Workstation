@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "car",
+    "length": "85cm",
+    "width": "28cm",
+    "height": "34cm",
+    "structure": "tough",
+    "name": "Car",
+    "3dmodelurl": "https://brigkair.digital/ddc/car"
+  }
+}

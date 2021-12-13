@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "cloud",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "1000cm",
+    "structure": "soft",
+    "name": "Cloud",
+    "3dmodelurl": "https://brigkair.digital/ddc/cloud"
+  }
+}

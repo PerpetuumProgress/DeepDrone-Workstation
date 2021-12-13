@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "asteroid",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "1000cm",
+    "structure": "tough",
+    "name": "asteroid",
+    "3dmodelurl": "https://brigkair.digital/ddc/asteroid"
+  }
+}

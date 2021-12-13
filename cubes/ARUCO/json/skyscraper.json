@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "skyscraper",
+    "length": "100cm",
+    "width": "100cm",
+    "height": "1400cm",
+    "structure": "medium",
+    "name": "Skyscraper",
+    "3dmodelurl": "https://brigkair.digital/ddc/skyscraper"
+  }
+}

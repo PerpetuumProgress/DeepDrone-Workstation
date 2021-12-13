@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "trafficsign",
+    "length": "60cm",
+    "width": "300cm",
+    "height": "200cm",
+    "structure": "tough",
+    "name": "Trafficsign",
+    "3dmodelurl": "https://brigkair.digital/ddc/trafficsign"
+  }
+}

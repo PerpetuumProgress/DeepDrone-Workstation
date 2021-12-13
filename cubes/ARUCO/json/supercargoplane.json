@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "supercargoplane",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "300cm",
+    "structure": "tough",
+    "name": "Supercargoplane",
+    "3dmodelurl": "https://brigkair.digital/ddc/supercargoplane"
+  }
+}

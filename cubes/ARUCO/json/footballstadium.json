@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "footballstadium",
+    "length": "4000cm",
+    "width": "4000cm",
+    "height": "700cm",
+    "structure": "tough",
+    "name": "Footballstadium",
+    "3dmodelurl": "https://brigkair.digital/ddc/footballstadium"
+  }
+}

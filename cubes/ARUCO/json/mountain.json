@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "mountain",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "1000cm",
+    "structure": "tough",
+    "name": "Mountain",
+    "3dmodelurl": "https://brigkair.digital/ddc/mountain"
+  }
+}

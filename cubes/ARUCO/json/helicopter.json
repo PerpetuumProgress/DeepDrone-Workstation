@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "helicopter",
+    "length": "200cm",
+    "width": "200cm",
+    "height": "60cm",
+    "structure": "tough",
+    "name": "Helicopter",
+    "3dmodelurl": "https://brigkair.digital/ddc/helicopter"
+  }
+}

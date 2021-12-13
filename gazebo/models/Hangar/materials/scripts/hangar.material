@@ -1,0 +1,14 @@
+material Hangar/Image
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../textures/beton.jpg
+
+      }
+    }
+  }
+}

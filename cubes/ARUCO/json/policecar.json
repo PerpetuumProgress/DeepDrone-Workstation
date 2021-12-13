@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "policecar",
+    "length": "85cm",
+    "width": "28cm",
+    "height": "34cm",
+    "structure": "tough",
+    "name": "Policecar",
+    "3dmodelurl": "https://brigkair.digital/ddc/policecar"
+  }
+}

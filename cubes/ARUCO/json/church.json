@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "church",
+    "length": "200cm",
+    "width": "60cm",
+    "height": "70cm",
+    "structure": "tough",
+    "name": "Church",
+    "3dmodelurl": "https://brigkair.digital/ddc/church"
+  }
+}

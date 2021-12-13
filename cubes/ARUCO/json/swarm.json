@@ -1,0 +1,11 @@
+{
+  "obstacle": {
+    "class": "swarm",
+    "length": "1000cm",
+    "width": "1000cm",
+    "height": "1000cm",
+    "structure": "soft",
+    "name": "Swarm",
+    "3dmodelurl": "https://brigkair.digital/ddc/swarm"
+  }
+}
